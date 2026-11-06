@@ -202,13 +202,13 @@ Tôi sẽ dừng xử lý, không tự ý sử dụng dữ liệu và báo cho g
 Kiểm tra trên GitHub trong thư mục `report/`:
 
 - [x] `REPORT.md` (file này đã điền)
-- [ ] `day1_lab_outputs/classification_predictions.json`
-- [ ] `day1_lab_outputs/detection_predictions.json`
-- [ ] `day1_lab_outputs/segmentation_predictions.json`
-- [ ] `day1_lab_outputs/IMAGE_ATTRIBUTION.md`
-- [ ] `day1_lab_outputs/visuals/classification_top5.png`
-- [ ] `day1_lab_outputs/visuals/detection_predictions.png`
-- [ ] `day1_lab_outputs/visuals/segmentation_prediction.png`
+- [x] `day1_lab_outputs/classification_predictions.json`
+- [x] `day1_lab_outputs/detection_predictions.json`
+- [x] `day1_lab_outputs/segmentation_predictions.json`
+- [x] `day1_lab_outputs/IMAGE_ATTRIBUTION.md`
+- [x] `day1_lab_outputs/visuals/classification_top5.png`
+- [x] `day1_lab_outputs/visuals/detection_predictions.png`
+- [x] `day1_lab_outputs/visuals/segmentation_prediction.png`
 - [x] Ô validation cuối notebook báo `PASS`
 - [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
 - [x] Đã nộp **link repository** trên LMS
